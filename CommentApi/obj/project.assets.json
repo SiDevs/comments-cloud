@@ -14136,11 +14136,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\simonw\\source\\repos\\comments\\CommentApi\\CommentApi.csproj",
+      "projectUniqueName": "C:\\Users\\simonw\\source\\repos\\comments-cloud\\CommentApi\\CommentApi.csproj",
       "projectName": "CommentApi",
-      "projectPath": "C:\\Users\\simonw\\source\\repos\\comments\\CommentApi\\CommentApi.csproj",
+      "projectPath": "C:\\Users\\simonw\\source\\repos\\comments-cloud\\CommentApi\\CommentApi.csproj",
       "packagesPath": "C:\\Users\\simonw\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\simonw\\source\\repos\\comments\\CommentApi\\obj\\",
+      "outputPath": "C:\\Users\\simonw\\source\\repos\\comments-cloud\\CommentApi\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
